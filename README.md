@@ -10,10 +10,9 @@
 
 #
 
-<h4>Versão Desktop 💻👇 ------------------------ 👇📱 Versão Mobile</h4>  
+<h4>Versão Desktop 💻👇 ---------------------- 👇📱 Versão Mobile</h4>  
 
-<img alt="Design final Perfil de Links Sociais" align="center" height="250" width="200" src="./assets/medias/Social-Links-Profile-Desktop.gif">
-<img alt="Design final Perfil de Links Sociais" align="center" height="250" width="200" src="./assets/medias/Social-Links-Profile-Mobile.gif">
+<img src="./assets/medias/Social-Links-Profile-Desktop.gif" width="24%" /> <img src="./assets/medias/Social-Links-Profile-Mobile.gif" width="20%" />
 
 
 <div align="center" valign="top"><br>
