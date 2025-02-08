@@ -1,0 +1,7 @@
+:root{
+    --primaryColor: hsl(75, 94%, 57%);
+    --brightColor: hsl(0, 0%, 100%);
+
+    --darkColor: hsl(0, 0%, 12%);
+    --brightDarkColor: hsl(0, 0%, 20%);
+}
