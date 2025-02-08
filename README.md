@@ -12,7 +12,7 @@
 
 <h4>Versão Desktop 💻👇 ---------------------------------------------- 👇📱 Versão Mobile</h4>  
 
-<img src="./assets/medias/Social-Links-Profile-Desktop.gif" width="32%" /> <img src="./assets/medias/Social-Links-Profile-Mobile.gif" width="27%" />
+<img src="./assets/medias/Social-Links-Profile-Desktop.gif" width="38%" /> <img src="./assets/medias/Social-Links-Profile-Mobile.gif" width="32%" />
 
 
 <div align="center" valign="top"><br>
