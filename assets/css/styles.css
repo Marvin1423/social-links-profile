@@ -82,7 +82,13 @@ main .social-links .link a{
     color: var(--brightColor);
     font-weight: 500;
     height: 50px;
-    padding-inline: 6vw;
+    padding-inline: 8vw;
     justify-content: center;
     align-items: center;
+}
+
+@media (max-width: 875px){
+    main .social-links .link a{
+        padding-inline: clamp(50px, 65px, 120px);
+    }
 }
